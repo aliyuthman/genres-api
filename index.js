@@ -5,6 +5,7 @@ const app = express();
 const startupDebugger = require("debug")("app:startup");
 const dbDebugger = require("debug")("app:db");
 const genres = require("./routes/genres");
+const genres = require("./routes/customers");
 
 const config = require("config");
 
@@ -28,6 +29,7 @@ const connect = () => {
 
 //router
 app.use("/api/genres", genres);
+app.use('api/customers', customers)
 
 const port = process.env.PORT || 3000;
 
