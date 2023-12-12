@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Action",
+    "description": "Movies and shows filled with thrilling adventures and intense sequences."
+  },
+  {
+    "name": "Comedy",
+    "description": "Entertainment that aims to amuse and provoke laughter."
+  },
+  {
+    "name": "Drama",
+    "description": "Emotional and impactful storytelling that explores human experiences."
+  },
+  {
+    "name": "Science Fiction",
+    "description": "Speculative fiction that often involves futuristic concepts and advanced technology."
+  },
+  {
+    "name": "Fantasy",
+    "description": "Imaginary worlds, magical elements, and fantastical creatures."
+  },
+  {
+    "name": "Thriller",
+    "description": "Suspenseful and exciting narratives that keep viewers on the edge of their seats."
+  },
+  {
+    "name": "Mystery",
+    "description": "Stories centered around solving puzzles, uncovering secrets, and solving crimes."
+  },
+  {
+    "name": "Romance",
+    "description": "Heartwarming tales of love and relationships, often with emotional twists."
+  },
+  {
+    "name": "Horror",
+    "description": "Frightening and chilling stories designed to evoke fear and suspense."
+  },
+  {
+    "name": "Adventure",
+    "description": "Journeys into the unknown, quests, and exploration of uncharted territories."
+  },
+  {
+    "name": "Historical",
+    "description": "Exploration of events, figures, and cultures from the past."
+  },
+  {
+    "name": "Documentary",
+    "description": "Factual films or shows that provide a non-fictional account of real-life events and subjects."
+  },
+  {
+    "name": "Animation",
+    "description": "Entertaining content brought to life through animated characters and visuals."
+  },
+  {
+    "name": "Family",
+    "description": "Content suitable for all ages, promoting family-friendly themes and values."
+  },
+  {
+    "name": "Superhero",
+    "description": "Stories featuring characters with extraordinary abilities and a commitment to justice."
+  },
+  {
+    "name": "Musical",
+    "description": "Narratives that incorporate music as a central element, often featuring song and dance."
+  },
+  {
+    "name": "Sports",
+    "description": "Exciting tales revolving around sports, athletes, and competitions."
+  },
+  {
+    "name": "Political",
+    "description": "Exploration of political themes, power struggles, and societal issues."
+  },
+  {
+    "name": "Reality TV",
+    "description": "Unscripted content capturing real-life situations and experiences."
+  },
+  {
+    "name": "Space Exploration",
+    "description": "Adventures beyond Earth, exploring outer space and celestial phenomena."
+  }
+]
